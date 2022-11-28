@@ -1,0 +1,1 @@
+# blazor-dotnet7-hotchocolate-graphql-api
